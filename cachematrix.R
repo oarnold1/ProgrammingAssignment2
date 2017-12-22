@@ -1,5 +1,6 @@
 ## makeCacheMatrix caches the inverse of a matrix in a list. It also provides a method to retain a cached matrix from a list
 ## cacheSolve checks if the inverse of the given matrix X is already in the cache, otherwise it calculates the inverse
+## Motivation for the code was given from coursera assignment on caching the mean
 
 ## makeCacheMatrix uses an invertible matrix as input and puts in a cache, or gets back a calculated inverse from the cache
 
